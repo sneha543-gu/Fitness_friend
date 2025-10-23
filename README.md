@@ -20,8 +20,10 @@ It also includes a **live exercise counter** using your webcam and pose detectio
 
 ##  Technologies Used 
 
- Python : Core programming language used to build the entire application. 
- Streamlit : Creates an interactive and user-friendly web interface for the fitness app. 
+ **Python** : Core programming language used to build the entire application.
+ 
+ **Streamlit** : Creates an interactive and user-friendly web interface for the fitness app.
+ 
  **Random Forest (Scikit-learn)** : Machine learning model used to predict the number of days needed to achieve the fitness goal. 
  **MediaPipe** : Performs real-time human pose detection for counting exercises. 
  **OpenCV** : Handles webcam input and video frame processing for live exercise tracking. 
