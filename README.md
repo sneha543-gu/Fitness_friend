@@ -18,19 +18,17 @@ It also includes a **live exercise counter** using your webcam and pose detectio
 
 
 
-##  Technologies Used
+##  Technologies Used 
 
-| Technology | Purpose / Usage |
-
-| **Python** : Core programming language used to build the entire application. |
-| **Streamlit** : Creates an interactive and user-friendly web interface for the fitness app. |
-| **Random Forest (Scikit-learn)** : Machine learning model used to predict the number of days needed to achieve the fitness goal. |
-| **MediaPipe** : Performs real-time human pose detection for counting exercises. |
-| **OpenCV** : Handles webcam input and video frame processing for live exercise tracking. |
-| **CVZone** : Simplifies interaction between OpenCV and MediaPipe for accurate movement detection. |
-| **Matplotlib** : Generates calorie burn charts and data visualizations. |
-| **SQL Database** : Stores and manages user login/signup credentials securely. |
-| **ReportLab** : Used to generate and download the personalized fitness plan as a PDF file. |
+ **Python** : Core programming language used to build the entire application. 
+ **Streamlit** : Creates an interactive and user-friendly web interface for the fitness app. 
+ **Random Forest (Scikit-learn)** : Machine learning model used to predict the number of days needed to achieve the fitness goal. 
+ **MediaPipe** : Performs real-time human pose detection for counting exercises. 
+ **OpenCV** : Handles webcam input and video frame processing for live exercise tracking. 
+ **CVZone** : Simplifies interaction between OpenCV and MediaPipe for accurate movement detection. 
+ **Matplotlib** : Generates calorie burn charts and data visualizations. 
+ **SQL Database** : Stores and manages user login/signup credentials securely. 
+ **ReportLab** : Used to generate and download the personalized fitness plan as a PDF file. 
 
 
 
