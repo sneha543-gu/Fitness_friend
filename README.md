@@ -25,11 +25,17 @@ It also includes a **live exercise counter** using your webcam and pose detectio
  **Streamlit** : Creates an interactive and user-friendly web interface for the fitness app.
  
  **Random Forest (Scikit-learn)** : Machine learning model used to predict the number of days needed to achieve the fitness goal. 
+ 
  **MediaPipe** : Performs real-time human pose detection for counting exercises. 
+ 
  **OpenCV** : Handles webcam input and video frame processing for live exercise tracking. 
+ 
  **CVZone** : Simplifies interaction between OpenCV and MediaPipe for accurate movement detection. 
+ 
  **Matplotlib** : Generates calorie burn charts and data visualizations. 
- **SQL Database** : Stores and manages user login/signup credentials securely. 
+ 
+ **SQL Database** : Stores and manages user login/signup credentials securely.
+ 
  **ReportLab** : Used to generate and download the personalized fitness plan as a PDF file. 
 
 
