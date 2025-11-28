@@ -9,5 +9,7 @@ fpdf
 python-docx
 opencv-python-headless
 google-generativeai
-mediapipe
+mediapipe==0.10.18
+
+
 
