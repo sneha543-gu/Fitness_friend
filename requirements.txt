@@ -2,9 +2,8 @@ streamlit
 pandas
 numpy==1.26.4
 scikit-learn
-opencv-python-headless
 matplotlib
 plotly
 fpdf
 python-docx
-mediapipe==0.10.18
+opencv-python-headless
