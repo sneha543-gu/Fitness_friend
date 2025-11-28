@@ -9,3 +9,5 @@ fpdf
 python-docx
 opencv-python-headless
 google-generativeai
+mediapipe
+
